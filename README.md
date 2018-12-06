@@ -2,6 +2,6 @@
 
 Instalar paquetes:
 
-````npm install```
+```npm install```
 
 ```node app -d "Ciudad de México"```
